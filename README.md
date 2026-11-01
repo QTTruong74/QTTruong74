@@ -4,7 +4,7 @@ Computer Engineering student at TU Berlin, passionate about building practical s
 
 ## 👤 About Me
 - 🎓 M.Sc. Computer Engineering, TU Berlin (current)
-- 🎓 B.Sc. Computer Engineering, HTW Berlin (graduated 2026)
+- 🎓 B.Eng. Computer Engineering, HTW Berlin (graduated 2026)
 - 💼 Working student and intern at Laser Electronics LE GmbH
 - 🌱 Currently learning: embedded systems, software engineering, computer networks
 - 🗣️ Languages: Vietnamese, English, German
