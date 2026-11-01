@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Thong Truong 👋
 
-<!--
-**QTTruong74/QTTruong74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at TU Berlin, passionate about building practical software and hardware-near tools.
 
-Here are some ideas to get you started:
+## 👤 About Me
+- 🎓 M.Sc. Computer Engineering, TU Berlin (current)
+- 🎓 B.Sc. Computer Engineering, HTW Berlin (graduated 2026)
+- 💼 Working student and intern at Laser Electronics LE GmbH
+- 🌱 Currently learning: embedded systems, software engineering, computer networks
+- 🗣️ Languages: Vietnamese, English, German
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Embedded systems:** STM32, UART, CAN
+- **Programming languages:** Python, C/C++, C#
+- **Scripting & platforms:** Shell scripting on Linux and macOS
+
+## 📫 Contact
+- 💼 LinkedIn: [linkedin.com/in/quoc-thong-truong-6a1b62352](https://www.linkedin.com/in/quoc-thong-truong-6a1b62352/)
+- 🐙 GitHub: [@QTTruong74](https://github.com/QTTruong74)
+
+---
+*Thanks for stopping by!*
