@@ -33,7 +33,7 @@ Computer Engineering student at TU Berlin, passionate about building practical s
 
 ## 📫 Contact
 - 💼 LinkedIn: [linkedin.com/in/quoc-thong-truong-6a1b62352](https://www.linkedin.com/in/quoc-thong-truong-6a1b62352/)
-- 🐙 GitHub: [@QTTruong74](https://github.com/QTTruong74)
+- 🦊 GitHub: [@QTTruong74](https://github.com/QTTruong74)
 - 🌐 Website: [qttruong74.github.io/website](https://qttruong74.github.io/website/)
 
 ---
